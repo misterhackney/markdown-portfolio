@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# Favorite things :sparkles:
+* Coding
+* Devops
+  * Azure
+  * Cloud
+  * Agile
+* Health
+  * Yoga
+  * Dance
+  * Hiking
